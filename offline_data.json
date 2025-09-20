@@ -1,0 +1,857 @@
+{
+  "materials": [
+    {
+      "id": "m1",
+      "jenjang": "SD",
+      "kelas": "1",
+      "mapel": "Bahasa Indonesia",
+      "bab": "1",
+      "judul": "Pengenalan Huruf",
+      "ringkasan": "Belajar huruf vokal dan konsonan, pengenalan kata sederhana."
+    },
+    {
+      "id": "m2",
+      "jenjang": "SD",
+      "kelas": "1",
+      "mapel": "Matematika",
+      "bab": "1",
+      "judul": "Bilangan 1-10",
+      "ringkasan": "Pengenalan bilangan 1 sampai 10, menghitung benda sehari-hari."
+    },
+    {
+      "id": "m3",
+      "jenjang": "SD",
+      "kelas": "2",
+      "mapel": "IPAS",
+      "bab": "1",
+      "judul": "Hewan dan Tumbuhan",
+      "ringkasan": "Jenis-jenis hewan dan tumbuhan di lingkungan sekitar."
+    },
+    {
+      "id": "m4",
+      "jenjang": "SD",
+      "kelas": "3",
+      "mapel": "Bahasa Sunda",
+      "bab": "1",
+      "judul": "Pengenalan Kosakata Dasar",
+      "ringkasan": "Sapaan, nama benda sehari-hari, ungkapan sopan."
+    },
+    {
+      "id": "m5",
+      "jenjang": "SMP",
+      "kelas": "7",
+      "mapel": "Matematika",
+      "bab": "1",
+      "judul": "Aljabar Dasar",
+      "ringkasan": "Variabel, substitusi, operasi pada bentuk aljabar."
+    },
+    {
+      "id": "m6",
+      "jenjang": "SMP",
+      "kelas": "8",
+      "mapel": "IPA Terpadu",
+      "bab": "2",
+      "judul": "Sistem Pencernaan",
+      "ringkasan": "Bagian-bagian sistem pencernaan dan fungsinya."
+    },
+    {
+      "id": "m7",
+      "jenjang": "SMA",
+      "kelas": "10",
+      "mapel": "Fisika",
+      "bab": "1",
+      "judul": "Kinematika",
+      "ringkasan": "Gerak lurus, kecepatan, percepatan, grafik gerak."
+    },
+    {
+      "id": "m8",
+      "jenjang": "SMA",
+      "kelas": "11",
+      "mapel": "Biologi",
+      "bab": "3",
+      "judul": "Genetika",
+      "ringkasan": "Konsep pewarisan sifat, DNA, kromosom, dominan/resesif."
+    },
+    {
+      "id": "m9",
+      "jenjang": "SMA",
+      "kelas": "12",
+      "mapel": "Sejarah",
+      "bab": "2",
+      "judul": "Pergerakan Nasional",
+      "ringkasan": "Tokoh dan peristiwa penting menuju kemerdekaan."
+    }
+  ],
+  "soal": [
+    {
+      "id": "q1",
+      "jenjang": "SD",
+      "kelas": "3",
+      "mapel": "Matematika",
+      "bab": "Penjumlahan",
+      "soal": "Budi punya 7 kelereng, ia mendapat 5 lagi. Berapa totalnya?",
+      "pilihan": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "jawaban": "12",
+      "pembahasan": "7+5=12"
+    },
+    {
+      "id": "q2",
+      "jenjang": "SD",
+      "kelas": "2",
+      "mapel": "Bahasa Indonesia",
+      "bab": "Membaca",
+      "soal": "Pilih kata yang berupa nama benda: 'lari, meja, berlari, cepat'",
+      "pilihan": [
+        "lari",
+        "meja",
+        "berlari",
+        "cepat"
+      ],
+      "jawaban": "meja",
+      "pembahasan": "Meja adalah nama benda."
+    },
+    {
+      "id": "q3",
+      "jenjang": "SMP",
+      "kelas": "7",
+      "mapel": "IPA",
+      "bab": "Sistem Pernapasan",
+      "soal": "Organ utama pernapasan manusia adalah?",
+      "pilihan": [
+        "Jantung",
+        "Paru-paru",
+        "Lambung",
+        "Ginjal"
+      ],
+      "jawaban": "Paru-paru",
+      "pembahasan": "Paru-paru berfungsi mengambil oksigen."
+    },
+    {
+      "id": "q4",
+      "jenjang": "SMA",
+      "kelas": "10",
+      "mapel": "Fisika",
+      "bab": "Kinematika",
+      "soal": "Jika sebuah mobil bergerak dengan kecepatan 20 m/s selama 5 s, jarak tempuh?",
+      "pilihan": [
+        "100 m",
+        "25 m",
+        "4 m",
+        "200 m"
+      ],
+      "jawaban": "100 m",
+      "pembahasan": "s = v * t = 20*5"
+    },
+    {
+      "id": "q5",
+      "jenjang": "SMP",
+      "kelas": "8",
+      "mapel": "Matematika",
+      "bab": "Latihan Umum",
+      "soal": "Contoh soal 5: Pilih jawaban yang benar.",
+      "pilihan": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "jawaban": "A",
+      "pembahasan": "Penjelasan singkat."
+    },
+    {
+      "id": "q6",
+      "jenjang": "SMA",
+      "kelas": "11",
+      "mapel": "Bahasa Indonesia",
+      "bab": "Latihan Umum",
+      "soal": "Contoh soal 6: Pilih jawaban yang benar.",
+      "pilihan": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "jawaban": "A",
+      "pembahasan": "Penjelasan singkat."
+    },
+    {
+      "id": "q7",
+      "jenjang": "SD",
+      "kelas": "4",
+      "mapel": "Matematika",
+      "bab": "Latihan Umum",
+      "soal": "Contoh soal 7: Pilih jawaban yang benar.",
+      "pilihan": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "jawaban": "A",
+      "pembahasan": "Penjelasan singkat."
+    },
+    {
+      "id": "q8",
+      "jenjang": "SMP",
+      "kelas": "8",
+      "mapel": "Bahasa Indonesia",
+      "bab": "Latihan Umum",
+      "soal": "Contoh soal 8: Pilih jawaban yang benar.",
+      "pilihan": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "jawaban": "A",
+      "pembahasan": "Penjelasan singkat."
+    },
+    {
+      "id": "q9",
+      "jenjang": "SMA",
+      "kelas": "11",
+      "mapel": "Matematika",
+      "bab": "Latihan Umum",
+      "soal": "Contoh soal 9: Pilih jawaban yang benar.",
+      "pilihan": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "jawaban": "A",
+      "pembahasan": "Penjelasan singkat."
+    },
+    {
+      "id": "q10",
+      "jenjang": "SD",
+      "kelas": "4",
+      "mapel": "Bahasa Indonesia",
+      "bab": "Latihan Umum",
+      "soal": "Contoh soal 10: Pilih jawaban yang benar.",
+      "pilihan": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "jawaban": "A",
+      "pembahasan": "Penjelasan singkat."
+    },
+    {
+      "id": "q11",
+      "jenjang": "SMP",
+      "kelas": "8",
+      "mapel": "Matematika",
+      "bab": "Latihan Umum",
+      "soal": "Contoh soal 11: Pilih jawaban yang benar.",
+      "pilihan": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "jawaban": "A",
+      "pembahasan": "Penjelasan singkat."
+    },
+    {
+      "id": "q12",
+      "jenjang": "SMA",
+      "kelas": "11",
+      "mapel": "Bahasa Indonesia",
+      "bab": "Latihan Umum",
+      "soal": "Contoh soal 12: Pilih jawaban yang benar.",
+      "pilihan": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "jawaban": "A",
+      "pembahasan": "Penjelasan singkat."
+    },
+    {
+      "id": "q13",
+      "jenjang": "SD",
+      "kelas": "4",
+      "mapel": "Matematika",
+      "bab": "Latihan Umum",
+      "soal": "Contoh soal 13: Pilih jawaban yang benar.",
+      "pilihan": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "jawaban": "A",
+      "pembahasan": "Penjelasan singkat."
+    },
+    {
+      "id": "q14",
+      "jenjang": "SMP",
+      "kelas": "8",
+      "mapel": "Bahasa Indonesia",
+      "bab": "Latihan Umum",
+      "soal": "Contoh soal 14: Pilih jawaban yang benar.",
+      "pilihan": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "jawaban": "A",
+      "pembahasan": "Penjelasan singkat."
+    },
+    {
+      "id": "q15",
+      "jenjang": "SMA",
+      "kelas": "11",
+      "mapel": "Matematika",
+      "bab": "Latihan Umum",
+      "soal": "Contoh soal 15: Pilih jawaban yang benar.",
+      "pilihan": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "jawaban": "A",
+      "pembahasan": "Penjelasan singkat."
+    },
+    {
+      "id": "q16",
+      "jenjang": "SD",
+      "kelas": "4",
+      "mapel": "Bahasa Indonesia",
+      "bab": "Latihan Umum",
+      "soal": "Contoh soal 16: Pilih jawaban yang benar.",
+      "pilihan": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "jawaban": "A",
+      "pembahasan": "Penjelasan singkat."
+    },
+    {
+      "id": "q17",
+      "jenjang": "SMP",
+      "kelas": "8",
+      "mapel": "Matematika",
+      "bab": "Latihan Umum",
+      "soal": "Contoh soal 17: Pilih jawaban yang benar.",
+      "pilihan": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "jawaban": "A",
+      "pembahasan": "Penjelasan singkat."
+    },
+    {
+      "id": "q18",
+      "jenjang": "SMA",
+      "kelas": "11",
+      "mapel": "Bahasa Indonesia",
+      "bab": "Latihan Umum",
+      "soal": "Contoh soal 18: Pilih jawaban yang benar.",
+      "pilihan": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "jawaban": "A",
+      "pembahasan": "Penjelasan singkat."
+    },
+    {
+      "id": "q19",
+      "jenjang": "SD",
+      "kelas": "4",
+      "mapel": "Matematika",
+      "bab": "Latihan Umum",
+      "soal": "Contoh soal 19: Pilih jawaban yang benar.",
+      "pilihan": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "jawaban": "A",
+      "pembahasan": "Penjelasan singkat."
+    },
+    {
+      "id": "q20",
+      "jenjang": "SMP",
+      "kelas": "8",
+      "mapel": "Bahasa Indonesia",
+      "bab": "Latihan Umum",
+      "soal": "Contoh soal 20: Pilih jawaban yang benar.",
+      "pilihan": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "jawaban": "A",
+      "pembahasan": "Penjelasan singkat."
+    },
+    {
+      "id": "q21",
+      "jenjang": "SMA",
+      "kelas": "11",
+      "mapel": "Matematika",
+      "bab": "Latihan Umum",
+      "soal": "Contoh soal 21: Pilih jawaban yang benar.",
+      "pilihan": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "jawaban": "A",
+      "pembahasan": "Penjelasan singkat."
+    },
+    {
+      "id": "q22",
+      "jenjang": "SD",
+      "kelas": "4",
+      "mapel": "Bahasa Indonesia",
+      "bab": "Latihan Umum",
+      "soal": "Contoh soal 22: Pilih jawaban yang benar.",
+      "pilihan": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "jawaban": "A",
+      "pembahasan": "Penjelasan singkat."
+    },
+    {
+      "id": "q23",
+      "jenjang": "SMP",
+      "kelas": "8",
+      "mapel": "Matematika",
+      "bab": "Latihan Umum",
+      "soal": "Contoh soal 23: Pilih jawaban yang benar.",
+      "pilihan": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "jawaban": "A",
+      "pembahasan": "Penjelasan singkat."
+    },
+    {
+      "id": "q24",
+      "jenjang": "SMA",
+      "kelas": "11",
+      "mapel": "Bahasa Indonesia",
+      "bab": "Latihan Umum",
+      "soal": "Contoh soal 24: Pilih jawaban yang benar.",
+      "pilihan": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "jawaban": "A",
+      "pembahasan": "Penjelasan singkat."
+    },
+    {
+      "id": "q25",
+      "jenjang": "SD",
+      "kelas": "4",
+      "mapel": "Matematika",
+      "bab": "Latihan Umum",
+      "soal": "Contoh soal 25: Pilih jawaban yang benar.",
+      "pilihan": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "jawaban": "A",
+      "pembahasan": "Penjelasan singkat."
+    },
+    {
+      "id": "q26",
+      "jenjang": "SMP",
+      "kelas": "8",
+      "mapel": "Bahasa Indonesia",
+      "bab": "Latihan Umum",
+      "soal": "Contoh soal 26: Pilih jawaban yang benar.",
+      "pilihan": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "jawaban": "A",
+      "pembahasan": "Penjelasan singkat."
+    },
+    {
+      "id": "q27",
+      "jenjang": "SMA",
+      "kelas": "11",
+      "mapel": "Matematika",
+      "bab": "Latihan Umum",
+      "soal": "Contoh soal 27: Pilih jawaban yang benar.",
+      "pilihan": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "jawaban": "A",
+      "pembahasan": "Penjelasan singkat."
+    },
+    {
+      "id": "q28",
+      "jenjang": "SD",
+      "kelas": "4",
+      "mapel": "Bahasa Indonesia",
+      "bab": "Latihan Umum",
+      "soal": "Contoh soal 28: Pilih jawaban yang benar.",
+      "pilihan": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "jawaban": "A",
+      "pembahasan": "Penjelasan singkat."
+    },
+    {
+      "id": "q29",
+      "jenjang": "SMP",
+      "kelas": "8",
+      "mapel": "Matematika",
+      "bab": "Latihan Umum",
+      "soal": "Contoh soal 29: Pilih jawaban yang benar.",
+      "pilihan": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "jawaban": "A",
+      "pembahasan": "Penjelasan singkat."
+    },
+    {
+      "id": "q30",
+      "jenjang": "SMA",
+      "kelas": "11",
+      "mapel": "Bahasa Indonesia",
+      "bab": "Latihan Umum",
+      "soal": "Contoh soal 30: Pilih jawaban yang benar.",
+      "pilihan": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "jawaban": "A",
+      "pembahasan": "Penjelasan singkat."
+    },
+    {
+      "id": "q31",
+      "jenjang": "SD",
+      "kelas": "4",
+      "mapel": "Matematika",
+      "bab": "Latihan Umum",
+      "soal": "Contoh soal 31: Pilih jawaban yang benar.",
+      "pilihan": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "jawaban": "A",
+      "pembahasan": "Penjelasan singkat."
+    },
+    {
+      "id": "q32",
+      "jenjang": "SMP",
+      "kelas": "8",
+      "mapel": "Bahasa Indonesia",
+      "bab": "Latihan Umum",
+      "soal": "Contoh soal 32: Pilih jawaban yang benar.",
+      "pilihan": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "jawaban": "A",
+      "pembahasan": "Penjelasan singkat."
+    },
+    {
+      "id": "q33",
+      "jenjang": "SMA",
+      "kelas": "11",
+      "mapel": "Matematika",
+      "bab": "Latihan Umum",
+      "soal": "Contoh soal 33: Pilih jawaban yang benar.",
+      "pilihan": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "jawaban": "A",
+      "pembahasan": "Penjelasan singkat."
+    },
+    {
+      "id": "q34",
+      "jenjang": "SD",
+      "kelas": "4",
+      "mapel": "Bahasa Indonesia",
+      "bab": "Latihan Umum",
+      "soal": "Contoh soal 34: Pilih jawaban yang benar.",
+      "pilihan": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "jawaban": "A",
+      "pembahasan": "Penjelasan singkat."
+    },
+    {
+      "id": "q35",
+      "jenjang": "SMP",
+      "kelas": "8",
+      "mapel": "Matematika",
+      "bab": "Latihan Umum",
+      "soal": "Contoh soal 35: Pilih jawaban yang benar.",
+      "pilihan": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "jawaban": "A",
+      "pembahasan": "Penjelasan singkat."
+    },
+    {
+      "id": "q36",
+      "jenjang": "SMA",
+      "kelas": "11",
+      "mapel": "Bahasa Indonesia",
+      "bab": "Latihan Umum",
+      "soal": "Contoh soal 36: Pilih jawaban yang benar.",
+      "pilihan": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "jawaban": "A",
+      "pembahasan": "Penjelasan singkat."
+    },
+    {
+      "id": "q37",
+      "jenjang": "SD",
+      "kelas": "4",
+      "mapel": "Matematika",
+      "bab": "Latihan Umum",
+      "soal": "Contoh soal 37: Pilih jawaban yang benar.",
+      "pilihan": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "jawaban": "A",
+      "pembahasan": "Penjelasan singkat."
+    },
+    {
+      "id": "q38",
+      "jenjang": "SMP",
+      "kelas": "8",
+      "mapel": "Bahasa Indonesia",
+      "bab": "Latihan Umum",
+      "soal": "Contoh soal 38: Pilih jawaban yang benar.",
+      "pilihan": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "jawaban": "A",
+      "pembahasan": "Penjelasan singkat."
+    },
+    {
+      "id": "q39",
+      "jenjang": "SMA",
+      "kelas": "11",
+      "mapel": "Matematika",
+      "bab": "Latihan Umum",
+      "soal": "Contoh soal 39: Pilih jawaban yang benar.",
+      "pilihan": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "jawaban": "A",
+      "pembahasan": "Penjelasan singkat."
+    },
+    {
+      "id": "q40",
+      "jenjang": "SD",
+      "kelas": "4",
+      "mapel": "Bahasa Indonesia",
+      "bab": "Latihan Umum",
+      "soal": "Contoh soal 40: Pilih jawaban yang benar.",
+      "pilihan": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "jawaban": "A",
+      "pembahasan": "Penjelasan singkat."
+    },
+    {
+      "id": "q41",
+      "jenjang": "SMP",
+      "kelas": "8",
+      "mapel": "Matematika",
+      "bab": "Latihan Umum",
+      "soal": "Contoh soal 41: Pilih jawaban yang benar.",
+      "pilihan": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "jawaban": "A",
+      "pembahasan": "Penjelasan singkat."
+    },
+    {
+      "id": "q42",
+      "jenjang": "SMA",
+      "kelas": "11",
+      "mapel": "Bahasa Indonesia",
+      "bab": "Latihan Umum",
+      "soal": "Contoh soal 42: Pilih jawaban yang benar.",
+      "pilihan": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "jawaban": "A",
+      "pembahasan": "Penjelasan singkat."
+    },
+    {
+      "id": "q43",
+      "jenjang": "SD",
+      "kelas": "4",
+      "mapel": "Matematika",
+      "bab": "Latihan Umum",
+      "soal": "Contoh soal 43: Pilih jawaban yang benar.",
+      "pilihan": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "jawaban": "A",
+      "pembahasan": "Penjelasan singkat."
+    },
+    {
+      "id": "q44",
+      "jenjang": "SMP",
+      "kelas": "8",
+      "mapel": "Bahasa Indonesia",
+      "bab": "Latihan Umum",
+      "soal": "Contoh soal 44: Pilih jawaban yang benar.",
+      "pilihan": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "jawaban": "A",
+      "pembahasan": "Penjelasan singkat."
+    },
+    {
+      "id": "q45",
+      "jenjang": "SMA",
+      "kelas": "11",
+      "mapel": "Matematika",
+      "bab": "Latihan Umum",
+      "soal": "Contoh soal 45: Pilih jawaban yang benar.",
+      "pilihan": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "jawaban": "A",
+      "pembahasan": "Penjelasan singkat."
+    }
+  ],
+  "sunda_vocab": [
+    {
+      "id": "v1",
+      "kata_sunda": "punten",
+      "arti": "permisi",
+      "audio": "audio_punten.mp3"
+    },
+    {
+      "id": "v2",
+      "kata_sunda": "hatur nuhun",
+      "arti": "terima kasih",
+      "audio": "audio_haturnuhun.mp3"
+    },
+    {
+      "id": "v3",
+      "kata_sunda": "cau",
+      "arti": "pisang",
+      "audio": "audio_cau.mp3"
+    },
+    {
+      "id": "v4",
+      "kata_sunda": "ngeunah",
+      "arti": "enak",
+      "audio": "audio_ngeunah.mp3"
+    }
+  ],
+  "comics": [
+    {
+      "id": "c1",
+      "kategori": "Sunda",
+      "judul": "Di Pasar Tradisional",
+      "pages": [
+        "comic_sunda_page1.png",
+        "comic_sunda_page2.png"
+      ],
+      "bahasa": "sunda",
+      "terjemahan_flag": "1"
+    },
+    {
+      "id": "c2",
+      "kategori": "Sains",
+      "judul": "Robot dan Planet",
+      "pages": [
+        "comic_sains_page1.png",
+        "comic_sains_page2.png"
+      ],
+      "bahasa": "indonesia",
+      "terjemahan_flag": "0"
+    }
+  ]
+}

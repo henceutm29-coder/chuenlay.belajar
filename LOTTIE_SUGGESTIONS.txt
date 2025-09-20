@@ -1,0 +1,13 @@
+
+Lottie Animation Suggestions (search terms to find suitable Lottie JSONs at lottiefiles.com)
+-----------------------------------------------------------------------------------------
+1. robot hologram idle
+2. neon particle burst
+3. hologram slide-in menu
+4. success confetti neon
+5. floating rocket animation
+6. pulsing button glow
+7. loading circle futuristic
+8. speech bubble pop
+
+Tip: Download Lottie JSON and upload to Thunkable (if supported) or use as GIF.

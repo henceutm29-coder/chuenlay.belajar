@@ -1,0 +1,10 @@
+id,jenjang,kelas,mapel,bab,judul,ringkasan,kompetensi_inti
+m1,SD,1,Bahasa Indonesia,1,Pengenalan Huruf,"Belajar huruf vokal dan konsonan, pengenalan kata sederhana.","Mengenal huruf, membaca kata sederhana."
+m2,SD,1,Matematika,1,Bilangan 1-10,"Pengenalan bilangan 1 sampai 10, menghitung benda sehari-hari.",Menghitung dan mengenal bilangan.
+m3,SD,2,IPAS,1,Hewan dan Tumbuhan,Jenis-jenis hewan dan tumbuhan di lingkungan sekitar.,Mengidentifikasi ciri hewan dan tumbuhan.
+m4,SD,3,Bahasa Sunda,1,Pengenalan Kosakata Dasar,"Sapaan, nama benda sehari-hari, ungkapan sopan.",Menggunakan kosakata Sunda sederhana.
+m5,SMP,7,Matematika,1,Aljabar Dasar,"Variabel, substitusi, operasi pada bentuk aljabar.",Menyelesaikan operasi aljabar sederhana.
+m6,SMP,8,IPA Terpadu,2,Sistem Pencernaan,Bagian-bagian sistem pencernaan dan fungsinya.,Menjelaskan proses pencernaan.
+m7,SMA,10,Fisika,1,Kinematika,"Gerak lurus, kecepatan, percepatan, grafik gerak.",Menganalisis gerak benda.
+m8,SMA,11,Biologi,3,Genetika,"Konsep pewarisan sifat, DNA, kromosom, dominan/resesif.",Memahami dasar genetika.
+m9,SMA,12,Sejarah,2,Pergerakan Nasional,Tokoh dan peristiwa penting menuju kemerdekaan.,Menjelaskan rangkaian peristiwa pergerakan nasional.

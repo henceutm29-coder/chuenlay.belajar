@@ -1,0 +1,46 @@
+id,jenjang,kelas,mapel,bab,soal,pilihan_a,pilihan_b,pilihan_c,pilihan_d,jawaban_benar,pembahasan
+q1,SD,3,Matematika,Penjumlahan,"Budi punya 7 kelereng, ia mendapat 5 lagi. Berapa totalnya?",10,11,12,13,12,7+5=12
+q2,SD,2,Bahasa Indonesia,Membaca,"Pilih kata yang berupa nama benda: 'lari, meja, berlari, cepat'",lari,meja,berlari,cepat,meja,Meja adalah nama benda.
+q3,SMP,7,IPA,Sistem Pernapasan,Organ utama pernapasan manusia adalah?,Jantung,Paru-paru,Lambung,Ginjal,Paru-paru,Paru-paru berfungsi mengambil oksigen.
+q4,SMA,10,Fisika,Kinematika,"Jika sebuah mobil bergerak dengan kecepatan 20 m/s selama 5 s, jarak tempuh?",100 m,25 m,4 m,200 m,100 m,s = v * t = 20*5
+q5,SMP,8,Matematika,Latihan Umum,Contoh soal 5: Pilih jawaban yang benar.,A,B,C,D,A,Penjelasan singkat.
+q6,SMA,11,Bahasa Indonesia,Latihan Umum,Contoh soal 6: Pilih jawaban yang benar.,A,B,C,D,A,Penjelasan singkat.
+q7,SD,4,Matematika,Latihan Umum,Contoh soal 7: Pilih jawaban yang benar.,A,B,C,D,A,Penjelasan singkat.
+q8,SMP,8,Bahasa Indonesia,Latihan Umum,Contoh soal 8: Pilih jawaban yang benar.,A,B,C,D,A,Penjelasan singkat.
+q9,SMA,11,Matematika,Latihan Umum,Contoh soal 9: Pilih jawaban yang benar.,A,B,C,D,A,Penjelasan singkat.
+q10,SD,4,Bahasa Indonesia,Latihan Umum,Contoh soal 10: Pilih jawaban yang benar.,A,B,C,D,A,Penjelasan singkat.
+q11,SMP,8,Matematika,Latihan Umum,Contoh soal 11: Pilih jawaban yang benar.,A,B,C,D,A,Penjelasan singkat.
+q12,SMA,11,Bahasa Indonesia,Latihan Umum,Contoh soal 12: Pilih jawaban yang benar.,A,B,C,D,A,Penjelasan singkat.
+q13,SD,4,Matematika,Latihan Umum,Contoh soal 13: Pilih jawaban yang benar.,A,B,C,D,A,Penjelasan singkat.
+q14,SMP,8,Bahasa Indonesia,Latihan Umum,Contoh soal 14: Pilih jawaban yang benar.,A,B,C,D,A,Penjelasan singkat.
+q15,SMA,11,Matematika,Latihan Umum,Contoh soal 15: Pilih jawaban yang benar.,A,B,C,D,A,Penjelasan singkat.
+q16,SD,4,Bahasa Indonesia,Latihan Umum,Contoh soal 16: Pilih jawaban yang benar.,A,B,C,D,A,Penjelasan singkat.
+q17,SMP,8,Matematika,Latihan Umum,Contoh soal 17: Pilih jawaban yang benar.,A,B,C,D,A,Penjelasan singkat.
+q18,SMA,11,Bahasa Indonesia,Latihan Umum,Contoh soal 18: Pilih jawaban yang benar.,A,B,C,D,A,Penjelasan singkat.
+q19,SD,4,Matematika,Latihan Umum,Contoh soal 19: Pilih jawaban yang benar.,A,B,C,D,A,Penjelasan singkat.
+q20,SMP,8,Bahasa Indonesia,Latihan Umum,Contoh soal 20: Pilih jawaban yang benar.,A,B,C,D,A,Penjelasan singkat.
+q21,SMA,11,Matematika,Latihan Umum,Contoh soal 21: Pilih jawaban yang benar.,A,B,C,D,A,Penjelasan singkat.
+q22,SD,4,Bahasa Indonesia,Latihan Umum,Contoh soal 22: Pilih jawaban yang benar.,A,B,C,D,A,Penjelasan singkat.
+q23,SMP,8,Matematika,Latihan Umum,Contoh soal 23: Pilih jawaban yang benar.,A,B,C,D,A,Penjelasan singkat.
+q24,SMA,11,Bahasa Indonesia,Latihan Umum,Contoh soal 24: Pilih jawaban yang benar.,A,B,C,D,A,Penjelasan singkat.
+q25,SD,4,Matematika,Latihan Umum,Contoh soal 25: Pilih jawaban yang benar.,A,B,C,D,A,Penjelasan singkat.
+q26,SMP,8,Bahasa Indonesia,Latihan Umum,Contoh soal 26: Pilih jawaban yang benar.,A,B,C,D,A,Penjelasan singkat.
+q27,SMA,11,Matematika,Latihan Umum,Contoh soal 27: Pilih jawaban yang benar.,A,B,C,D,A,Penjelasan singkat.
+q28,SD,4,Bahasa Indonesia,Latihan Umum,Contoh soal 28: Pilih jawaban yang benar.,A,B,C,D,A,Penjelasan singkat.
+q29,SMP,8,Matematika,Latihan Umum,Contoh soal 29: Pilih jawaban yang benar.,A,B,C,D,A,Penjelasan singkat.
+q30,SMA,11,Bahasa Indonesia,Latihan Umum,Contoh soal 30: Pilih jawaban yang benar.,A,B,C,D,A,Penjelasan singkat.
+q31,SD,4,Matematika,Latihan Umum,Contoh soal 31: Pilih jawaban yang benar.,A,B,C,D,A,Penjelasan singkat.
+q32,SMP,8,Bahasa Indonesia,Latihan Umum,Contoh soal 32: Pilih jawaban yang benar.,A,B,C,D,A,Penjelasan singkat.
+q33,SMA,11,Matematika,Latihan Umum,Contoh soal 33: Pilih jawaban yang benar.,A,B,C,D,A,Penjelasan singkat.
+q34,SD,4,Bahasa Indonesia,Latihan Umum,Contoh soal 34: Pilih jawaban yang benar.,A,B,C,D,A,Penjelasan singkat.
+q35,SMP,8,Matematika,Latihan Umum,Contoh soal 35: Pilih jawaban yang benar.,A,B,C,D,A,Penjelasan singkat.
+q36,SMA,11,Bahasa Indonesia,Latihan Umum,Contoh soal 36: Pilih jawaban yang benar.,A,B,C,D,A,Penjelasan singkat.
+q37,SD,4,Matematika,Latihan Umum,Contoh soal 37: Pilih jawaban yang benar.,A,B,C,D,A,Penjelasan singkat.
+q38,SMP,8,Bahasa Indonesia,Latihan Umum,Contoh soal 38: Pilih jawaban yang benar.,A,B,C,D,A,Penjelasan singkat.
+q39,SMA,11,Matematika,Latihan Umum,Contoh soal 39: Pilih jawaban yang benar.,A,B,C,D,A,Penjelasan singkat.
+q40,SD,4,Bahasa Indonesia,Latihan Umum,Contoh soal 40: Pilih jawaban yang benar.,A,B,C,D,A,Penjelasan singkat.
+q41,SMP,8,Matematika,Latihan Umum,Contoh soal 41: Pilih jawaban yang benar.,A,B,C,D,A,Penjelasan singkat.
+q42,SMA,11,Bahasa Indonesia,Latihan Umum,Contoh soal 42: Pilih jawaban yang benar.,A,B,C,D,A,Penjelasan singkat.
+q43,SD,4,Matematika,Latihan Umum,Contoh soal 43: Pilih jawaban yang benar.,A,B,C,D,A,Penjelasan singkat.
+q44,SMP,8,Bahasa Indonesia,Latihan Umum,Contoh soal 44: Pilih jawaban yang benar.,A,B,C,D,A,Penjelasan singkat.
+q45,SMA,11,Matematika,Latihan Umum,Contoh soal 45: Pilih jawaban yang benar.,A,B,C,D,A,Penjelasan singkat.
